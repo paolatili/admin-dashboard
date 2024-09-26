@@ -1,6 +1,6 @@
-# vue-starter
+# damin-dashboard
 
-This is a starter project in Vue 3, Composition API, TypeScript and Vite. This project can be used to create other projects on top, so clone it and then push it to another repository to get started.
+This is an admin dashboard web app based on a free figma template.
 
 
 ## Customize configuration
